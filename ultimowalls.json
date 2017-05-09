@@ -1,53 +1,102 @@
 {
 	"wallpapers": [
 		{
-			"name": "blue_blur",
+			"name": "blue_001",
 			"author": "jasonevil",
-			"url": "https://raw.githubusercontent.com/jasonrevil/wallpapers/master/blue_blur.jpg",
-			"dimensions": "2560 x 1440",
-			"copyright": "Copyright ? 2016 Jason Reynolds. All rights reserved."
+			"url": "https://raw.githubusercontent.com/jasonrevil/wallpapers/master/blue_001.png",
+			"dimensions": "2560 x 2560",
+			"copyright": "Copyright ? 2017 Jason Reynolds. All rights reserved."
 		},
 		{
-			"name": "blur_one",
+			"name": "blue_vortex",
 			"author": "jasonevil",
-			"url": "https://raw.githubusercontent.com/jasonrevil/wallpapers/master/blur_one.jpg",
-			"dimensions": "1080 x 1920",
-			"copyright": "Copyright ? 2016 Jason Reynolds. All rights reserved."
+			"url": "https://raw.githubusercontent.com/jasonrevil/wallpapers/master/blue_vortex.png",
+			"dimensions": "2560 x 2560",
+			"copyright": "Copyright ? 2017 Jason Reynolds. All rights reserved."
 		},
 		{
-			"name": "blur_two",
+			"name": "cyan_001",
 			"author": "jasonevil",
-			"url": "https://raw.githubusercontent.com/jasonrevil/wallpapers/master/blur_two.jpg",
-			"dimensions": "1920 x 1920",
-			"copyright": "Copyright ? 2016 Jason Reynolds. All rights reserved."
+			"url": "https://raw.githubusercontent.com/jasonrevil/wallpapers/master/cyan_001.png",
+			"dimensions": "2560 x 2560",
+			"copyright": "Copyright ? 2017 Jason Reynolds. All rights reserved."
 		},
 		{
-			"name": "city_blur",
+			"name": "green_001",
 			"author": "jasonevil",
-			"url": "https://raw.githubusercontent.com/jasonrevil/wallpapers/master/city_blur.jpg",
-			"dimensions": "2560 x 1440",
-			"copyright": "Copyright ? 2016 Jason Reynolds. All rights reserved."
+			"url": "https://raw.githubusercontent.com/jasonrevil/wallpapers/master/green_001.png",
+			"dimensions": "2560 x 2560",
+			"copyright": "Copyright ? 2017 Jason Reynolds. All rights reserved."
 		},
 		{
 			"name": "green_blur",
 			"author": "jasonevil",
-			"url": "https://raw.githubusercontent.com/jasonrevil/wallpapers/master/green_blur.jpg",
-			"dimensions": "2560 x 1440",
-			"copyright": "Copyright ? 2016 Jason Reynolds. All rights reserved."
+			"url": "https://raw.githubusercontent.com/jasonrevil/wallpapers/master/green_blur.png",
+			"dimensions": "2560 x 2560",
+			"copyright": "Copyright ? 2017 Jason Reynolds. All rights reserved."
+		},
+		{
+			"name": "orange_001",
+			"author": "jasonevil",
+			"url": "https://raw.githubusercontent.com/jasonrevil/wallpapers/master/orange_001.png",
+			"dimensions": "2560 x 2560",
+			"copyright": "Copyright ? 2017 Jason Reynolds. All rights reserved."
+		},
+		{
+			"name": "pink_001",
+			"author": "jasonevil",
+			"url": "https://raw.githubusercontent.com/jasonrevil/wallpapers/master/pink_001.png",
+			"dimensions": "2560 x 2560",
+			"copyright": "Copyright ? 2017 Jason Reynolds. All rights reserved."
+		},
+		{
+			"name": "purple_001",
+			"author": "jasonevil",
+			"url": "https://raw.githubusercontent.com/jasonrevil/wallpapers/master/purple_001.png",
+			"dimensions": "2560 x 2560",
+			"copyright": "Copyright ? 2017 Jason Reynolds. All rights reserved."
 		},
 		{
 			"name": "purple_blur",
 			"author": "jasonevil",
-			"url": "https://raw.githubusercontent.com/jasonrevil/wallpapers/master/purple_blur.jpg",
-			"dimensions": "2560 x 1440",
-			"copyright": "Copyright ? 2016 Jason Reynolds. All rights reserved."
+			"url": "https://raw.githubusercontent.com/jasonrevil/wallpapers/master/purple_blur.png",
+			"dimensions": "2560 x 2560",
+			"copyright": "Copyright ? 2017 Jason Reynolds. All rights reserved."
+		},
+		{
+			"name": "red_001",
+			"author": "jasonevil",
+			"url": "https://raw.githubusercontent.com/jasonrevil/wallpapers/master/red_001.png",
+			"dimensions": "2560 x 2560",
+			"copyright": "Copyright ? 2017 Jason Reynolds. All rights reserved."
 		},
 		{
 			"name": "red_blur",
 			"author": "jasonevil",
-			"url": "https://raw.githubusercontent.com/jasonrevil/wallpapers/master/red_blur.jpg",
-			"dimensions": "2560 x 1440",
-			"copyright": "Copyright ? 2016 Jason Reynolds. All rights reserved."
+			"url": "https://raw.githubusercontent.com/jasonrevil/wallpapers/master/red_blur.png",
+			"dimensions": "2560 x 2560",
+			"copyright": "Copyright ? 2017 Jason Reynolds. All rights reserved."
+		},
+		{
+			"name": "red_vortex",
+			"author": "jasonevil",
+			"url": "https://raw.githubusercontent.com/jasonrevil/wallpapers/master/red_vortex.png",
+			"dimensions": "2560 x 2560",
+			"copyright": "Copyright ? 2017 Jason Reynolds. All rights reserved."
+		},
+		{
+			"name": "ultimo",
+			"author": "jasonevil",
+			"url": "https://raw.githubusercontent.com/jasonrevil/wallpapers/master/ultimo.png",
+			"dimensions": "2560 x 2560",
+			"copyright": "Copyright ? 2017 Jason Reynolds. All rights reserved."
+		},
+		{
+			"name": "wall_blue_red",
+			"author": "jasonevil",
+			"url": "https://raw.githubusercontent.com/jasonrevil/wallpapers/master/wall_blue_red.png",
+			"dimensions": "2560 x 2560",
+			"copyright": "Copyright ? 2017 Jason Reynolds. All rights reserved."
 		}
 	]
 }
